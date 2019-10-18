@@ -4,9 +4,9 @@
     choices: [21, 7, 48, 63, 77],
     correctAnswer: 2
   }, {
-    question: "What is 3*6?",
-    choices: [3, 6, 9, 12, 18],
-    correctAnswer: 4
+    question: "Which is the correct way to count to 3 in binary",
+    choices: ["1 2 3", "01 10 02", "01 10 11", "01 02 03"],
+    correctAnswer: 2
   }, {
     question: "What is 8*9?",
     choices: [72, 99, 108, 134, 156],

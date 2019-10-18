@@ -1,7 +1,6 @@
 body {
     font-family: Comic Sans MS;
     color: black;
-    
 }
 
 h1 {
@@ -52,7 +51,7 @@ button {
     background-color: lightblue;
     border:4px solid gold;
     border-radius:8px;
-    color: grey;
+    color: black;
     font-weight: bold;
     box-shadow: 5px 5px 5px #888;
 }
